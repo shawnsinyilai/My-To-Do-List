@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My TO-DO List</string>
+    <string name="add_new_event">Add A New Event</string>
+    <string name="select_colour" >Select a colour:</string>
+    <string name="confirm">confirm</string>
+    <string name="previous">back</string>
+    <string name="add_menu">add</string>
+    <string name="del_menu">delete</string>
+    <string name="no_data">NO DATA DETECTED</string>
+</resources>
